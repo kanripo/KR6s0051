@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:05.279591
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:59
 #+TITLE: 惠遠外傳
 #+PROPERTY: CBETA_ID T85n2859
 #+PROPERTY: ID KR6s0051
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2859
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0051_T_001-1314b> 
 #+PROPERTY: JUAN 1
 ¶
-No.2859¶
-
- 惠遠外傳¶
+No. 2859¶
+惠遠外傳¶
 ¶
 
 題梵音遠向嚮漸歷耳□□□□□□□□¶
@@ -140,7 +139,7 @@ No.2859¶
 鳥靈禽飛來。滿似祥震不散常遊紫殿之傍。¶
 瑞氣盤旋不離朱樓之側。諸天聞法十類聞¶
 經有形無形無相皆為涅槃而行滅度。善慶思¶
-惟既畢滿目是淚。相公怪之問善慶曰。吾為¶
+惟既畢滿日是淚。相公怪之問善慶曰。吾為¶
 儞講經。有何事理頻啼泣。汝且為復怨恨阿¶
 誰解事速說情由不說眼看喫杖。善慶進步¶
 向前啟相公曰。賤奴並不怨恨他別人。只為¶
